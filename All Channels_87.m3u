@@ -33,7 +33,8 @@ https://sneh-zee5tv-1.up.railway.app?c=0-9-zeeanmol
 
 
 #EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Rishtey&q=800&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Rishtey&q=800&e=junk.m3u8
+
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -279,3 +280,18 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
 
 #EXTINF:-1 tvg-id="185" tvg-name="&Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
