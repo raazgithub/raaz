@@ -8,10 +8,10 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 http://eurotv.vip:80/55/55/38112
 
 #EXTINF:-1 tvg-id="167" tvg-name="Zee Tv HD" tvg-logo="https://assets.rstream.me/images/j/zGGwLLfxPD.png" group-title="Entertainment",Zee TV HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_TV_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment" ,Colors HD
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-name="sony Entertainment HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",sony Entertainment HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
