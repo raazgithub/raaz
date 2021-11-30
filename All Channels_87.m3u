@@ -11,7 +11,7 @@ http://eurotv.vip:80/55/55/38112
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment" ,Colors HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_HD&q=1200&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-name="sony Entertainment HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",sony Entertainment HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -50,7 +50,7 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 http://mytv.fun:8080/tjqg9v8ozf/c1ig2xiclb/3989
 
 #EXTINF:-1 tvg-name="& Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",& Pictures
-https://jiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
 
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures HD
 http://mytv.fun:8080/tjqg9v8ozf/c1ig2xiclb/10622
@@ -255,12 +255,6 @@ http://eurotv.vip:80/55/55/50262
 
 #EXTINF:-1 tvg-name="STAR GOLD 2" tvg-logo="https://assets.rstream.me/images/h/BtnlvNwurz.jpg" group-title="Movies",STAR GOLD 2
 http://eurotv.vip:80/55/55/24300
-
-#EXTINF:-1 tvg-name="& Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",& Pictures
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-pictures
-
-#EXTINF:-1 tvg-id="185" tvg-name="&Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Movies",&Pictures HD
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-tvpictureshd
 
 #EXTINF: group-title="Sneh RADIO | Hindi" ,,Yo Punjabi Mirchi
 https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
